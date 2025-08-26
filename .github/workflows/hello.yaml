@@ -1,4 +1,4 @@
-name: Custom Environmnet Variables
+name: Custom The Environmnet Variables
 on: 
   push:
     branches:
